@@ -2,7 +2,7 @@
 <widget id="com.eurakelottopicker.HasanAziz0730" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Eureka Lotto Picker</name>
     <description>
-       This app generates lottery numbers for the Texas Lottery games.
+       This app generates lottery numbers for the Texas Lottery games. Triple Chances added.
     </description>
     <author email="hasanwise@gmail.com" href="http://www.iwonthelottery.net">
       Hasan Aziz
